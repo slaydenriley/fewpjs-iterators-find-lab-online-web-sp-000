@@ -5,5 +5,7 @@ function testFunc() {
 };
 
 function superbowlWin(array) {
-  
+  array.map(object) {
+    object.find()
+  }
 };
